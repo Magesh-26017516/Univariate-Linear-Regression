@@ -1,4 +1,6 @@
 # Implementation of Univariate Linear Regression
+## Developed by: Magesh M
+## Reg no: 26017516
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
@@ -41,8 +43,8 @@ plt.show()
 
 ```
 ## Output
-<img width="817" height="586" alt="WhatsApp Image 2026-11-24 at 11 36 23 AM" src="https://github.com/user-attachments/assets/32133dba-34b4-4246-958a-dfd3e450ab12" />
-<img width="707" height="517" alt="WhatsApp Image 2026-11-24 at 11 36 41 AM" src="https://github.com/user-attachments/assets/60e2e177-9104-46e4-89b7-c245fac8aa2b" />
+
+<img width="540" height="694" alt="image" src="https://github.com/user-attachments/assets/dd9cb6ea-bc31-42a8-aa3e-8fdd4c25d02f" />
 
 
 ## Result
